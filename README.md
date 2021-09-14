@@ -5,5 +5,5 @@
 - 📫 Reach me on +91 6364048458 /giparthi001@gmail.com
 
 Have a look on my Project
-Feedback Form created using html https://html-feedback-form.netlify.app/
-Pan Card application created using html & css https://pan-card-application-form.netlify.app/
+- Feedback Form created using html https://html-feedback-form.netlify.app/
+- Pan Card application created using html & css https://pan-card-application-form.netlify.app/
