@@ -7,3 +7,4 @@
 Have a look on my Project
 - Feedback Form created using html https://html-feedback-form.netlify.app/
 - Pan Card application created using html & css https://pan-card-application-form.netlify.app/
+- Model Resume created using html & css https://resume-task-2.netlify.app/
